@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "405220943702",
+    "project_id": "acmnetworkingapp",
+    "storage_bucket": "acmnetworkingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405220943702:android:86547f41bc28e5fbd0d8f7",
+        "android_client_info": {
+          "package_name": "com.example.android.acmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405220943702-k6tatss2jpkdkmijn01r33427h656qgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.acmapp",
+            "certificate_hash": "bb327ca84b223b1504965784743ad6c69467bdf7"
+          }
+        },
+        {
+          "client_id": "405220943702-pjb8m6qlevcosilcs4hpe2ak3vcn4n6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Jgh31h1en-gDtkGIfcv9x7_VBAfl1rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405220943702-pjb8m6qlevcosilcs4hpe2ak3vcn4n6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
